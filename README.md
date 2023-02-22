@@ -4,7 +4,7 @@ A simple minimalist one page website for a makeup artist to showcase her work an
 
 Mobile responsive portfolio built with no frameworks, just HTML, CSS and JavaScript. Includes form validation, animations and a testimonial carousel.
 
-To download project, hit the "Clone" button and choose the “Download ZIP" option.
+To download project, hit the "Code" button and choose the “Download ZIP" option.
 
 #### [Visit website](https://one-page-portfolio.surge.sh/)
 
