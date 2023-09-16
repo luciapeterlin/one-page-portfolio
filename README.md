@@ -1,11 +1,11 @@
-# Minimalist One Page Portfolio
+# Landing Page - AeroNex
 
-A simple minimalist one page website for a makeup artist to showcase her work and services.
+Este repositorio contiene el código y los recursos utilizados para crear una landing page responsive. 
 
-Mobile responsive portfolio built with HTML, CSS and JavaScript. Includes form validation, animations and a testimonial carousel.
+Para su desarrollo se utilizó HTML5, CSS3, JavaScript y la librería SwiperJs.
 
-To download project, hit the "Code" button and choose the “Download ZIP" option.
+Instrucciones de uso:
+1) Descargar el archivo ZIP de este repositorio.
+2) Abrir el archivo index.html en un navegador web.
 
-#### [Visit website](https://one-page-portfolio.surge.sh/)
-
-![Alt Text](https://media.giphy.com/media/DajAO35U2mErYtSEGa/giphy.gif)
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFwOGJvaWNxMXlsaTQ2ZWlqdTRobDNweDh1Mjlwancxczd4OGF4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VxkfkYIGQijlkfJOgT/giphy.gif)
